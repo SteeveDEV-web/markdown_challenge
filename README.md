@@ -2,7 +2,7 @@
 
 *Actions speak louder than words*
 
-![Professionnal Picture](Downloads/logo.png)
+![Professionnal Picture](logo.png"It's me")
 
 ## I'm a man with some kindness
 
