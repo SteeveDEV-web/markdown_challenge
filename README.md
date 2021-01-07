@@ -2,7 +2,7 @@
 
 *Actions speak louder than words*
 
-Professionnal Picture (https://zupimages.net/viewer.php?id=21/01/flbn.jpg)
+![Professionnal Picture](Downloads/logo.png)
 
 ## I'm a man with some kindness
 
@@ -11,14 +11,14 @@ Professionnal Picture (https://zupimages.net/viewer.php?id=21/01/flbn.jpg)
 | Birthday      | 13/06                        |   
 | Favorite color| blue                         |
 | Favorite food | pastas & healthy food        |
-| Pinneapple on pizza | 
+| Pinneapple on pizza | <ul><li>- [x] yes</li><li>- [] no</li></ul>
 
 ### Hobbies
 
-- playing guitar
-- watching horror movies
-- listening to music
-- mythology
+* playing guitar
+    * listening to music
+* watching horror movies
+* mythology
 
 #### you can always count on me if you need help, to chat and to have a drink.
 
