@@ -28,6 +28,6 @@
 
 *Never rush while on crutches.*
 
-... [previous](https://github.com/AnonyMouse97/markdown-challenge) ... ||Steeve Boulanger||  ... [next](https://github.com/Tselawi/markdown-challenge) ...
+... [Samuel](https://github.com/AnonyMouse97/markdown-challenge) ... ||Steeve Boulanger||  ... [Tariq](https://github.com/Tselawi/markdown-challenge) ...
 
 # markdown_challenge
