@@ -32,4 +32,3 @@
 
 ... [Samuel](https://github.com/AnonyMouse97/markdown-challenge) ... ||Steeve Boulanger||  ... [Tariq](https://github.com/Tselawi/markdown-challenge) ...
 
-# markdown_challenge
