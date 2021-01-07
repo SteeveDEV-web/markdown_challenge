@@ -28,6 +28,8 @@
 
 *When I was a teenager, I went to school on crutches and with my left foot in a cast. I had to go up a step and I sprained my leg again, so I ended up in a wheelchair with both feet in a cast.*
 
+##### TL;DR
+
 *Never rush while on crutches.*
 
 ... [Samuel](https://github.com/AnonyMouse97/markdown-challenge) ... ||Steeve Boulanger||  ... [Tariq](https://github.com/Tselawi/markdown-challenge) ...
