@@ -11,7 +11,7 @@
 | Birthday      | 13/06                        |   
 | Favorite color| blue                         |
 | Favorite food | pastas & healthy food        |
-| Pinneapple on pizza | <ul><li>- [x] yes</li><li>- [] no</li></ul>
+| Pinneapple on pizza | <ul><li>- [x] yes</li><li> [ ] no</li></ul>
 
 ### Hobbies
 
