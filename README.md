@@ -6,13 +6,12 @@ Professionnal Picture (https://zupimages.net/viewer.php?id=21/01/flbn.jpg)
 
 ## I'm a man with some kindness
 
-|Birthday: 13/06|
-
-|Favorite color : blue|
-
-|Favorite food : pastas & healthy food|
-
-|Pinneapple on pizza : [ ]Yes / [ ] No|
+| Questions     |           Answers            |
+| ------------- |       :-------------:        |
+| Birthday      | 13/06                        |   
+| Favorite color| blue                         |
+| Favorite food | pastas & healthy food        |
+| Pinneapple on pizza | 
 
 ### Hobbies
 
@@ -29,6 +28,6 @@ Professionnal Picture (https://zupimages.net/viewer.php?id=21/01/flbn.jpg)
 
 *Never rush while on crutches.*
 
-< previous (https://github.com/AnonyMouse97/markdown-challenge) || Steeve Boulanger || next (https://github.com/Tselawi/markdown-challenge) >
+... [previous] (https://github.com/AnonyMouse97/markdown-challenge) ... ||Steeve Boulanger|| ... [next] (https://github.com/Tselawi/markdown-challenge) ...
 
 # markdown_challenge
