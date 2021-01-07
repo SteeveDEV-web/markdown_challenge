@@ -28,6 +28,6 @@ Professionnal Picture (https://zupimages.net/viewer.php?id=21/01/flbn.jpg)
 
 *Never rush while on crutches.*
 
-... [previous] (https://github.com/AnonyMouse97/markdown-challenge) ... ||Steeve Boulanger|| ... [next] (https://github.com/Tselawi/markdown-challenge) ...
+... [previous](https://github.com/AnonyMouse97/markdown-challenge) ... ||Steeve Boulanger||  ... [next](https://github.com/Tselawi/markdown-challenge) ...
 
 # markdown_challenge
